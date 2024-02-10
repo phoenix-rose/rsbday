@@ -1,0 +1,289 @@
+{
+	"frames": [
+		{
+			"filename": "flame_00",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_01",
+			"frame": {
+				"x": 379,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_02",
+			"frame": {
+				"x": 757,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_03",
+			"frame": {
+				"x": 1135,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_04",
+			"frame": {
+				"x": 1513,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_05",
+			"frame": {
+				"x": 1891,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_06",
+			"frame": {
+				"x": 2269,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_07",
+			"frame": {
+				"x": 2647,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_08",
+			"frame": {
+				"x": 3025,
+				"y": 1,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_09",
+			"frame": {
+				"x": 1,
+				"y": 525,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_10",
+			"frame": {
+				"x": 379,
+				"y": 525,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_11",
+			"frame": {
+				"x": 757,
+				"y": 525,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		},
+		{
+			"filename": "flame_12",
+			"frame": {
+				"x": 1135,
+				"y": 525,
+				"w": 376,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 376,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 376,
+				"h": 522
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "hearts.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 3402,
+			"h": 3144
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:96fa1e80c216ba62b9ba0bc97cd68af8:c5ee7cd1dd39e8e6180c09d36af11085:5e5e23da6a1570af4436a7b0ea6927ea$"
+	}
+}
