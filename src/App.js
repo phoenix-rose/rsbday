@@ -360,11 +360,11 @@ function App() {
             <Center top position={[0, -50.001, 1]}>
               <Plane rotation={[0, 0, 0]} scale={[3, 5, 3]} />
             </Center>
-            /*
+            {/*
             <Center top position={[-2, -10, 4.01]}>
               <APTDecal rotation={[0, 11, 0]} scale={1} />
             </Center>
-            */
+            */}
             <Center top position={[0, 0.001, 2]}>
               <Cake rotation={[0, 4, 0]} scale={0.4} />
             </Center>
