@@ -322,6 +322,7 @@ function Plane(props) {
   return <primitive object={scene} {...props} />;
 }
 
+/*
 function APTDecal(props) {
   const { scene } = useGLTF("/models/apt-decal.glb");
 
@@ -335,6 +336,7 @@ function APTDecal(props) {
 
   return <primitive object={scene} {...props} />;
 }
+*/
 
 /**
  * APP
