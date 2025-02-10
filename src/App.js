@@ -43,7 +43,7 @@ function Teddy(props) {
 }
 
 function Cake(props) {
-  const { scene } = useGLTF("/models/heart-cake.glb");
+  const { scene } = useGLTF("/models/heart-cake-2.glb");
 
   useLayoutEffect(() => {
     scene.traverse((obj) => {
@@ -108,7 +108,6 @@ function Radio(props) {
         materials["BMD_PBRMetallic"].normalMap.wrapT = THREE.RepeatWrapping;
         materials["BMD_PBRMetallic"].normalMap.repeat.set(1, 1);
         materials["BMD_PBRMetallic"].normalScale.set(1, 1);
-
       }
     });
   }, [scene, materials]);
@@ -323,9 +322,24 @@ function Plane(props) {
   return <primitive object={scene} {...props} />;
 }
 
+/*
+function APTDecal(props) {
+  const { scene } = useGLTF("/models/apt-decal.glb");
+
+  useLayoutEffect(() => {
+    scene.traverse((obj) => {
+      if (obj.isMesh) {
+        obj.receiveShadow = false;
+      }
+    });
+  }, [scene]);
+
+  return <primitive object={scene} {...props} />;
+}
+*/
 
 /**
- * APP 
+ * APP
  */
 
 function App() {
@@ -348,6 +362,11 @@ function App() {
             <Center top position={[0, -50.001, 1]}>
               <Plane rotation={[0, 0, 0]} scale={[3, 5, 3]} />
             </Center>
+            {/*
+            <Center top position={[-2, -10, 4.01]}>
+              <APTDecal rotation={[0, 11, 0]} scale={1} />
+            </Center>
+            */}
             <Center top position={[0, 0.001, 2]}>
               <Cake rotation={[0, 4, 0]} scale={0.4} />
             </Center>
